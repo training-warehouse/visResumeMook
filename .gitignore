@@ -1,2 +1,7 @@
-.idea/
-node_modules/
+node_modules
+.idea/*
+.templaterc.js
+template
+dist
+# mac自动生成的文件
+.DS_Store
